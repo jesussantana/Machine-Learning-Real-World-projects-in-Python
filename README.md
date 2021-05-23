@@ -7,8 +7,8 @@
 ## Build 3 Practical Real World Projects and become a master in Machine Learning.  
 
 ## Machine Learning is one of the hottest technology field in the world right now! This field is exploding with opportunities and career prospects. Machine Learning techniques are widely used in several sectors now a days such as banking, healthcare, finance, education transportation and technology.
-### Module 1 - Predicting the Hotel booking  : Predict Whether booking  is going to cancel or not
+### Project 1 - Predicting the Hotel booking  : Predict Whether booking  is going to cancel or not
 
-### Module 2 - Predict Whether Person has a Chronic Disease or not: Develop a Machine learning  Model that predicts whether person has kidney disease or not
+### Project2 - Predict Whether Person has a Chronic Disease or not: Develop a Machine learning  Model that predicts whether person has kidney disease or not
 
-### Module 3 - Predict the Prices of Flight: Predict the prices of Flght using Regression & Ensemble Algorithms.
+### Project 3 - Predict the Prices of Flight: Predict the prices of Flght using Regression & Ensemble Algorithms.
